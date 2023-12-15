@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mujahed </h1>
+<!-- <h1 align="center">Hi 👋, I'm Mujahed </h1>
 <h3 align="center">Java Backend developer from India.</h3>
 
 
@@ -84,4 +84,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thtsme&&theme=highcontrast" alt="thtsme" /></p>
 
 <br/>
-<img alt="Mujahed 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thtsme&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=highcontrast" />
+<img alt="Mujahed 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thtsme&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&theme=highcontrast" /> -->
